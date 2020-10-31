@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/counters-with-redux/static/css/main.652ff513.chunk.css",
+    "main.js": "/counters-with-redux/static/js/main.2eb89510.chunk.js",
+    "main.js.map": "/counters-with-redux/static/js/main.2eb89510.chunk.js.map",
+    "runtime-main.js": "/counters-with-redux/static/js/runtime-main.bfc30c6c.js",
+    "runtime-main.js.map": "/counters-with-redux/static/js/runtime-main.bfc30c6c.js.map",
+    "static/js/2.501dff65.chunk.js": "/counters-with-redux/static/js/2.501dff65.chunk.js",
+    "static/js/2.501dff65.chunk.js.map": "/counters-with-redux/static/js/2.501dff65.chunk.js.map",
+    "index.html": "/counters-with-redux/index.html",
+    "precache-manifest.95697fe3e513c1ed37e5d297a916afdb.js": "/counters-with-redux/precache-manifest.95697fe3e513c1ed37e5d297a916afdb.js",
+    "service-worker.js": "/counters-with-redux/service-worker.js",
+    "static/css/main.652ff513.chunk.css.map": "/counters-with-redux/static/css/main.652ff513.chunk.css.map",
+    "static/js/2.501dff65.chunk.js.LICENSE.txt": "/counters-with-redux/static/js/2.501dff65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfc30c6c.js",
+    "static/js/2.501dff65.chunk.js",
+    "static/css/main.652ff513.chunk.css",
+    "static/js/main.2eb89510.chunk.js"
+  ]
+}
